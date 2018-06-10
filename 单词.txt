@@ -1,0 +1,5 @@
+AirQualityID		空气质量
+StationID		驻地ID
+PM			下午
+level			水平
+NOTES			注释；说明；笔记
